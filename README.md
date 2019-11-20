@@ -3,7 +3,7 @@
 Control algorithms and testing.
 
 ## PID Controller
-Import as module to use PID object. Run file as-is for demo and to adjust set point with slider to view live controller-response. Includes optional protection against integral windup and derivative kick and can be run as simulation or with real system. 
+General purpose PID controller that can be imported as a module and used as an object. Protection for common PID control issues including integral windup and derivative kick. 
 
 *see [pid-control](https://github.com/WisconsinAutonomous/controls-algorithms/tree/master/pid-control)*
 
