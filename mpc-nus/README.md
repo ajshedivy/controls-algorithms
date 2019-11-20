@@ -1,8 +1,12 @@
-# controls-algorithms
+# Model Predictive Control
 
-Control algorithms and testing.
+MPC controller/simulator from summer research work at NUS. See paper for algorithm details. 
 
+To use, run mpc_accel.py or mpc_floorplan.py for different simulation environments/obstacle representations. Default is to display window and let user press 'q' to move through time steps (frame-by-frame). This is a flag that can be reconfigured in the code (could also be made into an argument if desired). 
 
-## PID controller
-Import as module to use PID object. Run file as-is for demo and to adjust set point with slider to view live controller-response. Includes optional protection against integral windup and derivative kick and can be run as simulation or with real system. 
-<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/pid-control/pid-demo.png" alt="art of flight jump" width="100%">
+## Sample Output
+#### mpc_accel.py
+<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-accel.png" alt="mpc_accel.py sample output" width="100%">
+
+#### mpc_floorplan.py
+<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-floorplan.png" alt="mpc_floorplan.py sample output" width="100%">
