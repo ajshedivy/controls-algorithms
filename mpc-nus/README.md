@@ -6,7 +6,7 @@ To use, run mpc_accel.py or mpc_floorplan.py for different simulation environmen
 
 ## Sample Output
 #### mpc_accel.py
-<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-accel.png" alt="mpc_accel.py sample output" width="100%">
+<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-accel.png" alt="mpc_accel.py sample output" width="80%">
 
 #### mpc_floorplan.py
-<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-floorplan.png" alt="mpc_floorplan.py sample output" width="100%">
+<img src="https://github.com/WisconsinAutonomous/controls-algorithms/blob/master/mpc-nus/pics/sample-floorplan.png" alt="mpc_floorplan.py sample output" width="80%">
