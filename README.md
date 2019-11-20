@@ -3,7 +3,7 @@
 Control algorithms and testing.
 
 ## PID Controller
-General purpose PID controller that can be imported as a module and used as an object. Protection for common PID control issues including integral windup and derivative kick. 
+General purpose PID controller that can be imported as a module and used as an object. Protection for common PID control issues including integral windup and derivative kick. Run as file for demo. 
 
 *see [pid-control](https://github.com/WisconsinAutonomous/controls-algorithms/tree/master/pid-control)*
 
